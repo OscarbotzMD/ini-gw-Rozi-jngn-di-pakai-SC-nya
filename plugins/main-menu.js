@@ -298,14 +298,9 @@ const fdoc = {
 
 //━━━━━━━━[ BAGIAN MENU ]━━━━━━━━//
 if (teks == '404') {
-let menuu = `╭────ꕥ ${namebot} ꕥ────
-│✾ Nama: ${name}
-│✾ Limit: ${limit}
-│✾ Level: ${level}
-│✾ Tanggal : ${date}
-│✾ Jam : ${wib}
-╰❑
+let menuu = `
 ╭─❑ 「 INFORMASI 」 ❑──
+│ saya adalah bot ke2 Rozi
 │ Bot ini masih tahap beta
 │ apabila ada bug/eror harap
 │ lapor ke owner
